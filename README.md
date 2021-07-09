@@ -12,3 +12,7 @@ To run this project
 scrapy crawl cia
 ```
 
+Cloud Deployment
+
+https://app.zyte.com/datasets/QZ7kkC3c3Mc/data
+
