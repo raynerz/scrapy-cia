@@ -16,3 +16,6 @@ Cloud Deployment
 
 https://app.zyte.com/datasets/QZ7kkC3c3Mc/data
 
+Course Certification
+
+![image](/scrapy-certification.png)
